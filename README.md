@@ -28,9 +28,6 @@ scripting. The specific list of projects contained follows:
 * [0x15-javascript-web_jquery](./0x15-javascript-web_jquery)
 
 
-## Author :
-
-* **Tolulope Fakunle** <[Tolulope05](https://github.com/Tolulope05)>
 
 ## Acknowledgements :pray:
 
@@ -45,4 +42,10 @@ using project-based peer learning. For more information, visit
        alt="ALX Afroca Logo"
   >
 </p>
+
 # alx-higher_level_programming
+
+
+## credits 
+This repo was cloned from 
+* **Tolulope Fakunle** <[Tolulope05](https://github.com/Tolulope05)>
